@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello, I'm Ashutosh Rawat
+<a href="https://linkedin.com/in/ashutoshdrawat"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**ashutosh-rawat-18/ashutosh-rawat-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a dedicated individual who has a love for using technology. Whether they be complex riddles or technological challenges, I enjoy taking on and solving complex problems. Being a people-person, I thrive at working with others to come up with workable solutions. My passion for technology and my aptitude for problem-solving motivate me to provide creative outcomes for each project I work on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Red team as a penetration tester.
+
+## Skills
+- 
+
+
+## Tools Used
+<div>
+<img src="https://img.shields.io/badge/-Gobuster-FF5733?&style=for-the-badge&logo=Gobuster&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Nmap-0B5394?&style=for-the-badge&logo=Nmap&logoColor=white"/>
+
+</div>
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+ 
+</div>
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-CISSP-0052CC?&style=for-the-badge&logo=ICS2&logoColor=white"/>
+</div>
+
+## Projects
+- Crypt-Image
