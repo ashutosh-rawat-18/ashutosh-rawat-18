@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools Used
 <div>
-<a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/-Gobuster-FF5733?&style=for-the-badge&logo=Gobuster&logoColor=white" />
+<img src="https://img.shields.io/badge/-Gobuster-FF5733?&style=for-the-badge&logo=Gobuster&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/-Nmap-0B5394?&style=for-the-badge&logo=Nmap&logoColor=white"/>
 
