@@ -8,8 +8,13 @@ I'm a dedicated individual who has a love for using technology. Whether they be 
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Red team as a penetration tester.
 
-## Skills
-- 
+## Technical Skills
+## Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=Python&logoColor=FFFF00" />
+    
+<img src="https://img.shields.io/badge/-SQL-F7DF1E?&style=for-the-badge&logo=MySQL&logoColor=black" />
+</div>
 
 
 ## Tools Used
@@ -18,13 +23,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <img src="https://img.shields.io/badge/-Nmap-0B5394?&style=for-the-badge&logo=Nmap&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/-Burp_Suite-FFA500?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-6C0F4D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
- 
-</div>
 
 ## Certifications
 
