@@ -29,7 +29,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-CISSP-0052CC?&style=for-the-badge&logo=ICS2&logoColor=white"/>
+
 </div>
 
 ## Projects
