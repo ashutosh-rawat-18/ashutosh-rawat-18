@@ -7,7 +7,7 @@ I'm a dedicated individual who has a love for using technology. Whether they be 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Red team as a penetration tester.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join the industry as a penetration tester.
 
 ## Technical Skills
 ## Languages
