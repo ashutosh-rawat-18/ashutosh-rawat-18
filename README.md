@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Rawat</h1>
-<h3 align="center">I'm a Junior Penetration Tester with hands-on experience in identifying vulnerabilities and improving security using tools like Nmap, Metasploit, and Burp Suite. I thrive on solving complex security challenges and collaborating with teams to enhance defences. Driven by curiosity and a deep interest in technology, I’m always exploring innovative solutions to tackle real-world threats.</h3>
+<h3 align="center">I'm a aspiring Penetration Tester with hands-on experience in identifying vulnerabilities and improving security using tools like Nmap, Metasploit, and Burp Suite. I thrive on solving complex security challenges and collaborating with teams to enhance defences. Driven by curiosity and a deep interest in technology, I’m always exploring innovative solutions to tackle real-world threats.</h3>
 
 
 
